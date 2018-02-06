@@ -984,15 +984,6 @@ fieldset[disabled] .btn-theme {
   color: #515769;
 }
 
-.gmap .gmap-address {
-  border-bottom: 1px solid #edf0f2;
-  text-align: center;
-  background: #fff;
-  width: 1024px;
-  padding: 30px;
-  margin-bottom: 0;
-}
-
 .swiper-slider {
   position: relative;
   width: 100%;
